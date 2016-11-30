@@ -1,0 +1,13 @@
+#
+#
+# ####### DEPLOYER KEY - DO NOT REMOVE
+# key of the user where the sync is ran from
+
+ssh-rsa AAAA...
+
+#
+#
+# ########## USER KEYS ###############
+
+#user1
+ssh-rsa AAAA...
